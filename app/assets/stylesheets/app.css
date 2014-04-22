@@ -5792,10 +5792,20 @@ body {
     background: #000;
 
     font-size: 20px;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'MeliorLTStdRegular', sans-serif;
     -webkit-font-smoothing: antialiased;
 
 }
+
+@font-face {
+    font-family: 'MeliorLTStdRegular';
+    src: url('meliorltstd.eot');
+    src: url('/assets/fonts/meliorltstd.eot') format('embedded-opentype'),
+         url('/assets/fonts/meliorltstd.woff') format('woff'),
+         url('/assets/fonts/meliorltstd.ttf') format('truetype'),
+         url('/assets/fonts/meliorltstd.svg#MeliorLTStdRegular') format('svg');
+}
+
 
 .page { 
     color: #fff;
