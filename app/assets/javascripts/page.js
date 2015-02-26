@@ -21,4 +21,18 @@
 	  fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));
 
+
+    jQuery(function( $ ){
+
+        $('header a').click(function(){//$.scrollTo works EXACTLY the same way, but scrolls the whole screen
+            $.scrollTo( this.hash, 500, {
+                offset: { 
+                    top: -1 * $('header').outerHeight()
+                }
+            });
+            return false;
+        });
+
+    });
+
 })();

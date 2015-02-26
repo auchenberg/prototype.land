@@ -1,26 +1,18 @@
 var express = require('express');
 var app = express();
+var lessMiddleware = require('less-middleware');
 
-app.configure(function(){
+app.engine('ejs', require('ejs-locals'));
 
-	app.engine('ejs', require('ejs-locals'));
+app.set('port', process.env.PORT || 8080);
+app.set('views', __dirname + '/views');
+app.set('view engine', 'ejs');
 
-	app.set('port', process.env.PORT || 8080);
-  	app.set('views', __dirname + '/views');
-  	app.set('view engine', 'ejs');
+app.use(lessMiddleware(__dirname + '/assets', {
+	force: true
+}));
 
-  	app.use(express.bodyParser());
-  	app.use(express.methodOverride());
-  	app.use('/assets', express.static(__dirname + '/assets/'));
-
-});
-
-app.configure('development', function(){
- 	app.use(express.errorHandler({ 
- 		dumpExceptions: true, 
- 		showStack: true 
- 	}));
-});
+app.use(express.static(__dirname + '/assets'));
 
 app.get('/', function(req, res) {
  	res.render('index', {
