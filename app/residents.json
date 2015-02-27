@@ -1,0 +1,72 @@
+[
+    {
+        "name" : "Jacob Bøtter",
+        "avatar" : "/images/boetter.jpg",
+        "description" : "Hacker, designer and all-round trouble-maker. Founder of various companies and organizations. Author of three books: @unboss @nqbook @udefra"
+    },
+    {
+        "name" : "Kenneth Auchenberg",
+        "avatar" : "/images/auchenberg.png",
+        "description" : "I'm Kenneth. I have specialized in the browser, because I believe the web platform is the future for our applications"
+    },
+    {
+        "name" : "Tony Hanna",
+        "avatar" : "/images/tony.jpg",
+        "description" : "I do details so small you'll feel them before you see them. #ideation #emotionaldesign #kineticdesign."
+    },
+    {
+        "name" : "Mathias Buus",
+        "avatar" : "/images/mathias.jpg",
+        "description" : "mad scientist / node.js / javascript / hacker / industry stream leader"
+    },
+    {
+        "name" : "Thomas Watson",
+        "avatar" : "/images/watson.jpg",
+        "description" : "Entrepreneur, Node.js hacker and co-founder of @championhq"
+    },
+    {
+        "name" : "Tobias Vebel",
+        "avatar" : "/images/tobias.jpg",
+        "description" : "Mobile Advisor @nodesdk Skriver om tech, web, startups, social media, apps, mobile, Brøndby - og alt muligt andet."
+    }, 
+    {
+        "name" : "Ole Gammelgaard",
+        "avatar" : "/images/ole.jpg",
+        "description" : "Partner and iOS developer at Shape. "
+    }, 
+    {
+        "name" : "Ron Cohen",
+        "avatar" : "/images/ron.jpg",
+        "description" : "roncohen"
+    }, 
+    {
+        "name" : "Anders Møller",
+        "avatar" : "/images/anders.jpg",
+        "description" : "Business and Community Developer, WEF Global Shaper."
+    },     
+    {
+        "name" : "Michael Nilsson",
+        "avatar" : "/images/michael.jpg",
+        "description" : "Co-founder @ Status.pt"
+    },
+    {
+        "name" : "Andreas Klinke Johannsen",
+        "avatar" : "/images/andreas.png",
+        "description" : "Self-employed digital and social consultant tweeting from a business perspective. Also volunteer firefighter at @BRSdk."
+    },
+    {
+        "name" : "Jacques Mourier",
+        "avatar" : "/images/jacques.jpg",
+        "description" : "My name is Jacques Mourier and I’m a Copenhagen-based designer and frontender. I make responsive, handsome, and human-friendly things for the web. Get in touch on"
+    },
+    {
+        "name" : "Jakob Mikkel Hansen",
+        "avatar" : "/images/jakob.jpg",
+        "description" : ""
+    },
+    {
+        "name" : "Martin Gausby",
+        "avatar" : "/images/martin.jpg",
+        "description" : ""
+    }
+]
