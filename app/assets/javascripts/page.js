@@ -25,14 +25,21 @@
     jQuery(function( $ ){
 
         $('header a').click(function(){//$.scrollTo works EXACTLY the same way, but scrolls the whole screen
+            
+            $('#nav-trigger').prop('checked', false);
+
             $.scrollTo( this.hash, 500, {
                 offset: { 
                     top: -1 * $('header').outerHeight()
                 }
             });
-            return false;
+
         });
 
+        $('.location').on('mousedown', function() {
+            $(this).find('iframe').css('pointerEvents', 'all');
+        });
+        
     });
 
 })();
