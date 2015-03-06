@@ -17,12 +17,14 @@
     {
         "name" : "Mathias Buus",
         "avatar" : "//www.gravatar.com/avatar/030556ade504409a2e995107e4acc189.jpg?s=512&d=404",
-        "description" : "mad scientist / node.js / javascript / hacker / industry stream leader"
+        "description" : "mad scientist / node.js / javascript / hacker / industry stream leader",
+        "url": "https://github.com/mafintosh"
     },
     {
         "name" : "Thomas Watson",
         "avatar" : "//www.gravatar.com/avatar/ed0ce2998995c2b649c31ca06a72dae4.jpg?s=512&d=404",
-        "description" : "Entrepreneur, Node.js hacker and co-founder of @championhq"
+        "description" : "Entrepreneur, Node.js hacker and co-founder of @championhq",
+        "url": "https://github.com/watson"
     },
     {
         "name" : "Tobias Vebel",

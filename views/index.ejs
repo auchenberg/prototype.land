@@ -51,11 +51,13 @@
     <% residents.forEach(function(resident) { %>
         <li>    
             <div>
-                <img src="<%= resident.avatar %>" />
-                <span>
-                    <h3><%= resident.name %></h3>
-                    <p><%= resident.description %></p>
-                </span>
+                <%- resident.url ? '<a href="' + resident.url + '">' : '' %>
+                    <img src="<%= resident.avatar %>" />
+                    <span>
+                        <h3><%= resident.name %></h3>
+                        <p><%= resident.description %></p>
+                    </span>
+                <%- resident.url ? '</a>' : '' %>
             </div>
         </li>
     <% }) %>    
