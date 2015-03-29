@@ -40,8 +40,8 @@
     }, 
     {
         "name" : "Ron Cohen",
-        "avatar" : "/images/ron.jpg",
-        "description" : "roncohen"
+        "avatar" : "//www.gravatar.com/avatar/08fae512a504cea3eb427e962a59a52e.png?s=512&d=404",
+        "description" : "CTO, PM and co-founder @ Opbeat."
     }, 
     {
         "name" : "Anders Møller",
