@@ -2,6 +2,7 @@ var express = require('express');
 var app = express();
 var lessMiddleware = require('less-middleware');
 var compression = require('compression')
+var staticAsset = require('static-asset');
 
 app.engine('ejs', require('ejs-locals'));
 
@@ -14,6 +15,7 @@ app.use(lessMiddleware(__dirname + '/assets', {
     force: true
 }));
 
+app.use(staticAsset(__dirname + "/assets") );
 app.use(express.static(__dirname + '/assets'));
 
 app.get('/', function(req, res) {
