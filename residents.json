@@ -32,22 +32,22 @@
         "name" : "Tobias Vebel",
         "avatar" : "/images/tobias.jpg",
         "description" : "Mobile Advisor @nodesdk Skriver om tech, web, startups, social media, apps, mobile, Brøndby - og alt muligt andet."
-    }, 
+    },
     {
         "name" : "Ole Gammelgaard Poulsen",
         "avatar" : "/images/ole.jpg",
         "description" : "Partner and iOS developer at Shape. Hacking prototypes in node.js and physical stuff using OpenJSCad and the Ultimaker. "
-    }, 
+    },
     {
         "name" : "Ron Cohen",
         "avatar" : "//www.gravatar.com/avatar/08fae512a504cea3eb427e962a59a52e.png?s=512&d=404",
         "description" : "CTO, PM and co-founder @ Opbeat."
-    }, 
+    },
     {
         "name" : "Anders Møller",
         "avatar" : "/images/anders.jpg",
         "description" : "Business and Community Developer, WEF Global Shaper."
-    },     
+    },
     {
         "name" : "Michael Nilsson",
         "avatar" : "/images/michael.jpg",
@@ -72,5 +72,11 @@
         "name" : "Martin Gausby",
         "avatar" : "/images/martin.jpg",
         "description" : ""
+    }
+
+    {
+        "name" : "David H. Péronard",
+        "avatar" : "/images/david.jpg",
+        "description" : "[Your ad here.] Interaction Designer. Dreaming about changing the world through immersive, interactive installations."
     }
 ]
