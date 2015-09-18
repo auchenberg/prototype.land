@@ -17,26 +17,9 @@
         "url": "http://www.firestarters.com"
     },
     {
-        "name" : "Mathias Buus",
-        "avatar" : "//www.gravatar.com/avatar/030556ade504409a2e995107e4acc189.jpg?s=512&d=404",
-        "description" : "mad scientist / node.js / javascript / hacker / industry stream leader",
-        "url": "https://github.com/mafintosh"
-    },
-    {
-        "name" : "Thomas Watson",
-        "avatar" : "//www.gravatar.com/avatar/ed0ce2998995c2b649c31ca06a72dae4.jpg?s=512&d=404",
-        "description" : "Entrepreneur, Node.js hacker and co-founder of @championhq",
-        "url": "https://github.com/watson"
-    },
-    {
         "name" : "Tobias Vebel",
         "avatar" : "/images/tobias.jpg",
         "description" : "Mobile Advisor @nodesdk Skriver om tech, web, startups, social media, apps, mobile, Brøndby - og alt muligt andet."
-    },
-    {
-        "name" : "Ole Gammelgaard Poulsen",
-        "avatar" : "/images/ole.jpg",
-        "description" : "Partner and iOS developer at Shape. Hacking prototypes in node.js and physical stuff using OpenJSCad and the Ultimaker. "
     },
     {
         "name" : "Ron Cohen",
@@ -49,28 +32,8 @@
         "description" : "Business and Community Developer, WEF Global Shaper."
     },
     {
-        "name" : "Michael Nilsson",
-        "avatar" : "/images/michael.jpg",
-        "description" : "Co-founder @ Status.pt"
-    },
-    {
-        "name" : "Andreas Klinke Johannsen",
-        "avatar" : "/images/andreas.png",
-        "description" : "Self-employed digital and social consultant tweeting from a business perspective. Also volunteer firefighter at @BRSdk."
-    },
-    {
-        "name" : "Jacques Mourier",
-        "avatar" : "/images/jacques.jpg",
-        "description" : "My name is Jacques Mourier and I’m a Copenhagen-based designer and frontender. I make responsive, handsome, and human-friendly things for the web. Get in touch on"
-    },
-    {
         "name" : "Jakob Mikkel Hansen",
         "avatar" : "/images/jakob.jpg",
-        "description" : ""
-    },
-    {
-        "name" : "Martin Gausby",
-        "avatar" : "/images/martin.jpg",
         "description" : ""
     },
     {
