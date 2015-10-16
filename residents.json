@@ -17,51 +17,19 @@
         "url": "http://www.firestarters.com"
     },
     {
-        "name" : "Mathias Buus",
-        "avatar" : "//www.gravatar.com/avatar/030556ade504409a2e995107e4acc189.jpg?s=512&d=404",
-        "description" : "mad scientist / node.js / javascript / hacker / industry stream leader",
-        "url": "https://github.com/mafintosh"
-    },
-    {
-        "name" : "Thomas Watson",
-        "avatar" : "//www.gravatar.com/avatar/ed0ce2998995c2b649c31ca06a72dae4.jpg?s=512&d=404",
-        "description" : "Entrepreneur, Node.js hacker and co-founder of @championhq",
-        "url": "https://github.com/watson"
-    },
-    {
         "name" : "Tobias Vebel",
         "avatar" : "/images/tobias.jpg",
         "description" : "Mobile Advisor @nodesdk Skriver om tech, web, startups, social media, apps, mobile, Brøndby - og alt muligt andet."
-    }, 
-    {
-        "name" : "Ole Gammelgaard Poulsen",
-        "avatar" : "/images/ole.jpg",
-        "description" : "Partner and iOS developer at Shape. Hacking prototypes in node.js and physical stuff using OpenJSCad and the Ultimaker. "
-    }, 
+    },
     {
         "name" : "Ron Cohen",
         "avatar" : "//www.gravatar.com/avatar/08fae512a504cea3eb427e962a59a52e.png?s=512&d=404",
         "description" : "CTO, PM and co-founder @ Opbeat."
-    }, 
+    },
     {
         "name" : "Anders Møller",
         "avatar" : "/images/anders.jpg",
         "description" : "Business and Community Developer, WEF Global Shaper."
-    },     
-    {
-        "name" : "Michael Nilsson",
-        "avatar" : "/images/michael.jpg",
-        "description" : "Co-founder @ Status.pt"
-    },
-    {
-        "name" : "Andreas Klinke Johannsen",
-        "avatar" : "/images/andreas.png",
-        "description" : "Self-employed digital and social consultant tweeting from a business perspective. Also volunteer firefighter at @BRSdk."
-    },
-    {
-        "name" : "Jacques Mourier",
-        "avatar" : "/images/jacques.jpg",
-        "description" : "My name is Jacques Mourier and I’m a Copenhagen-based designer and frontender. I make responsive, handsome, and human-friendly things for the web. Get in touch on"
     },
     {
         "name" : "Jakob Mikkel Hansen",
@@ -69,8 +37,8 @@
         "description" : ""
     },
     {
-        "name" : "Martin Gausby",
-        "avatar" : "/images/martin.jpg",
-        "description" : ""
+        "name" : "David H. Péronard",
+        "avatar" : "/images/david.jpg",
+        "description" : "[Your ad here.] Interaction Designer. Dreaming about changing the world through immersive, interactive installations."
     }
 ]
