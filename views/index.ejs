@@ -1,9 +1,9 @@
 <a id="home"></a>
 
 <header>
-    
+
     <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-    <label for="nav-trigger"></label>    
+    <label for="nav-trigger"></label>
 
     <nav>
         <ul>
@@ -44,12 +44,12 @@
 
 <section class="residents">
     <a id="residents"></a>
-    
+
     <h1>Residents</h1>
 
     <ul>
     <% residents.forEach(function(resident) { %>
-        <li>    
+        <li>
             <div>
                 <%- resident.url ? '<a href="' + resident.url + '">' : '' %>
                     <img src="<%= resident.avatar %>" />
@@ -60,7 +60,7 @@
                 <%- resident.url ? '</a>' : '' %>
             </div>
         </li>
-    <% }) %>    
+    <% }) %>
     </ul>
 
 </section>
@@ -81,7 +81,7 @@
 
     <h1>Contact</h1>
 
-    <p>Interesting in Prototype? Feel free to contact one of the members, or get in touch with <a href="mailto:jacob@boetter.dk">Jacob Bøtter.</a> or <a href="mailto:kenneth@auchenberg.dk">Kenneth Auchenberg.</a></p>
+    <p>Interesting in Prototype? Feel free to contact one of the members, or get in touch with <a href="mailto:andersmolleren@gmail.com">Anders Møller.</a></p>
 
 </section>
 
